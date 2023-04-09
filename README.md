@@ -20,11 +20,11 @@ After the dependencies are installed, you can access the application by navigati
 
 On the main page of the application, you can view your expenses in a chart display.
 
-![chart](.\public\main.png)
+<img src=".\public\main.png" alt="">
 
 To add an expense, click on the "Add Expense" button. This will open a form where you can enter the title, date, and cost of your expense.
 
-![add-expense-form](.\public\newExpanse.png)
+<img src=".\public\newExpanse.png">
 
 Once you've entered your expense information, click on the "Add Expense" button to save your expense.
 
