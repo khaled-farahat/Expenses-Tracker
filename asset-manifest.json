@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/khaled-farahat.github.io/kh-expenses-tracker/static/css/main.90dd79e3.css",
-    "main.js": "/khaled-farahat.github.io/kh-expenses-tracker/static/js/main.9c30b1c6.js",
-    "index.html": "/khaled-farahat.github.io/kh-expenses-tracker/index.html",
-    "main.90dd79e3.css.map": "/khaled-farahat.github.io/kh-expenses-tracker/static/css/main.90dd79e3.css.map",
-    "main.9c30b1c6.js.map": "/khaled-farahat.github.io/kh-expenses-tracker/static/js/main.9c30b1c6.js.map"
+    "main.css": "/kh-expenses-tracker/static/css/main.90dd79e3.css",
+    "main.js": "/kh-expenses-tracker/static/js/main.9c30b1c6.js",
+    "index.html": "/kh-expenses-tracker/index.html",
+    "main.90dd79e3.css.map": "/kh-expenses-tracker/static/css/main.90dd79e3.css.map",
+    "main.9c30b1c6.js.map": "/kh-expenses-tracker/static/js/main.9c30b1c6.js.map"
   },
   "entrypoints": [
     "static/css/main.90dd79e3.css",
